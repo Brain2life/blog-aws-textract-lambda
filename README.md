@@ -10,3 +10,6 @@ OS Ubuntu 20.04
 pip3 install boto3
 pip3 install pillow
 ```
+
+## Scheme
+![](https://i.imgur.com/6Pkhn0n.png)
