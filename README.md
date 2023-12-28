@@ -1,6 +1,8 @@
 # blog-aws-textract-lambda
 Code files and example image for the tutorial describing how to integrate AWS Textract and Lambda function to detect text in images
 
+Article: [Get started with AWS Textract](https://maxat-akbanov.com/get-started-with-aws-textract)
+
 ## Tested on  
 Python 3.9.2  
 OS Ubuntu 20.04
